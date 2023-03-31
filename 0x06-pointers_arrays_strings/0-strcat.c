@@ -2,7 +2,7 @@
 
 /**
  * _stract - fuction that concatenates
- *		tow strings.
+ *	tow strings.
  *
  * @dest: pointer to destnation input
  * @src: pointers to source input
