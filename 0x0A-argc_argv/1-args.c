@@ -3,12 +3,12 @@
 /**
  * main-print number of arguments passed.
  * @argc:number of commandline arguments.
- * @argv:pointer to an array of commnd line arguments.
+ * @argv:pointer to an array of commndline arguments.
  * Return:0-success, non-zero-fail.
 */
 
 int main(int argc, char *argv[] __attribute__((unsend)))
 {
 	printf("%d\n", argc - 1);
-	return(0);
+	return (0);
 }
